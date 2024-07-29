@@ -8,3 +8,8 @@
 
  window.byeSpeaker = byeSpeaker;
 })(window);
+
+console.log("Good Bye John");
+console.log("Good Bye Jen");
+console.log("Good Bye Jason");
+console.log("Good Bye Jim");
